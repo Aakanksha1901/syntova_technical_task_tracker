@@ -1,0 +1,82 @@
+[
+    {
+        "employee_id": 1,
+        "employee_name": "Aarav Sharma",
+        "department": "IT",
+        "job_role": "Python Developer",
+        "salary": 55000,
+        "city": "Pune"
+    },
+    {
+        "employee_id": 2,
+        "employee_name": "Priya Patil",
+        "department": "HR",
+        "job_role": "HR Executive",
+        "salary": 48000,
+        "city": "Kolhapur"
+    },
+    {
+        "employee_id": 3,
+        "employee_name": "Rohan Deshmukh",
+        "department": "Finance",
+        "job_role": "Financial Analyst",
+        "salary": 62000,
+        "city": "Mumbai"
+    },
+    {
+        "employee_id": 4,
+        "employee_name": "Sneha Kulkarni",
+        "department": "IT",
+        "job_role": "Data Analyst",
+        "salary": 58000,
+        "city": "Pune"
+    },
+    {
+        "employee_id": 5,
+        "employee_name": "Vikram Joshi",
+        "department": "Sales",
+        "job_role": "Sales Executive",
+        "salary": 45000,
+        "city": "Nashik"
+    },
+    {
+        "employee_id": 6,
+        "employee_name": "Neha Jadhav",
+        "department": "IT",
+        "job_role": "Backend Developer",
+        "salary": 65000,
+        "city": "Bengaluru"
+    },
+    {
+        "employee_id": 7,
+        "employee_name": "Aditya More",
+        "department": "Marketing",
+        "job_role": "Marketing Executive",
+        "salary": 50000,
+        "city": "Mumbai"
+    },
+    {
+        "employee_id": 8,
+        "employee_name": "Kavya Shah",
+        "department": "Finance",
+        "job_role": "Accountant",
+        "salary": 52000,
+        "city": "Pune"
+    },
+    {
+        "employee_id": 9,
+        "employee_name": "Siddhant Patil",
+        "department": "Sales",
+        "job_role": "Sales Manager",
+        "salary": 72000,
+        "city": "Kolhapur"
+    },
+    {
+        "employee_id": 10,
+        "employee_name": "Anjali Pawar",
+        "department": "HR",
+        "job_role": "Recruiter",
+        "salary": 47000,
+        "city": "Sangli"
+    }
+]

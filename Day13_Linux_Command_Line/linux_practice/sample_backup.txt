@@ -1,0 +1,4 @@
+Linux commands help manage files
+I am learning directory navigation
+File permissions control access
+Shell scripting automates tasks

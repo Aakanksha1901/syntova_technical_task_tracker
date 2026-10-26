@@ -333,7 +333,7 @@ def check_number(num):
 print(check_number(-3))
 
 #  REVERSE A STRING
-# ============================================================
+
 
 def reverse_string(text):
     return text[::-1]
